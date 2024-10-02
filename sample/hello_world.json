@@ -1,0 +1,4 @@
+{
+    "hello": "Hello, World!",
+    "hello2": { "output": "Hello, World!" }
+}

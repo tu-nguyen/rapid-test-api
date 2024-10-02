@@ -1,0 +1,22 @@
+{
+    "item": 
+    {
+        "model": "Base",
+        "fields": 
+        [
+            {
+                "name": "name",
+                "type": "str"
+            },
+            {
+                "name": "price",
+                "type": "float"
+            },
+            {
+                "name": "is_offer",
+                "type": "Union[bool, None]",
+                "default": "None"
+            }
+        ]
+    }
+}
