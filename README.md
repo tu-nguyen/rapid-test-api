@@ -5,7 +5,10 @@
 Quick script to spin up an API with either FastAPI or Flask.<br>
 Parses JSON files to dictate the endpoints and what they return.
 
-<!-- ## Preview -->
+## Preview
+
+[Base Command Screenshot](screenshots/base-command.png?raw=true)
+[Postman Screenshot](screenshots/postman.png?raw=true)
 
 ## Prerequisites
 
@@ -47,3 +50,9 @@ rapid-api [options]
 -m, --model <model>
 -e, --endpoint <endpoint>
 ```
+
+## Examples
+
+### No args
+### Simple
+### Complex
