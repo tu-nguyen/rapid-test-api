@@ -7,8 +7,9 @@ Parses JSON files to dictate the endpoints and what they return.
 
 ## Preview
 
-[Base Command Screenshot](screenshots/base-command.png?raw=true)
-[Postman Screenshot](screenshots/postman.png?raw=true)
+![Base Command Screenshot](screenshots/base-command.png?raw=true "Base Command")<br>
+![Browser Screenshot](screenshots/base-browser.png?raw=true "Browser")<br>
+![Postman Screenshot](screenshots/postman.png?raw=true "Postman")
 
 ## Prerequisites
 
